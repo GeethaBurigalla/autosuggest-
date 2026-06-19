@@ -39,3 +39,9 @@ h1{
 body {
   margin: 0px;
 }
+.card {
+    border: 1.5px, solid, black;
+    width: 300px;
+    text-align: center;
+    margin: 20px;
+}
