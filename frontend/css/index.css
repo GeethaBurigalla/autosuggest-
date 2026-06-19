@@ -1,4 +1,20 @@
 h1{
     color: red;
-    
+}
+#Heading2{
+    color: blue;
+}
+.heading{
+    color: rgb(137, 19, 206);
+}
+.para{
+    color: brown;
+    border: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+   border-color: black;
+   border-style: solid;
+   padding: 5px;
+   margin: 5px;
+   text-align: center;
 }
