@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GeethaBurigalla/autosuggest-/issues"
   },
-  "homepage": "https://github.com/GeethaBurigalla/autosuggest-#readme"
+  "homepage": "https://github.com/GeethaBurigalla/autosuggest-#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
